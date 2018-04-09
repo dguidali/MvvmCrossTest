@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27428.2027
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvvmCrossTest", "MvvmCrossTest\MvvmCrossTest.csproj", "{60B946A3-BE42-4D5B-A03B-8B0AB867A168}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvvmCrossTest.Core", "MvvmCrossTest.Core\MvvmCrossTest.Core.csproj", "{C8478F35-A23C-40BB-A905-EC7565A3C87D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,6 +19,10 @@ Global
 		{60B946A3-BE42-4D5B-A03B-8B0AB867A168}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{60B946A3-BE42-4D5B-A03B-8B0AB867A168}.Release|Any CPU.Build.0 = Release|Any CPU
 		{60B946A3-BE42-4D5B-A03B-8B0AB867A168}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{C8478F35-A23C-40BB-A905-EC7565A3C87D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8478F35-A23C-40BB-A905-EC7565A3C87D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8478F35-A23C-40BB-A905-EC7565A3C87D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8478F35-A23C-40BB-A905-EC7565A3C87D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
